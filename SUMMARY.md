@@ -7,7 +7,7 @@
 ## Custom Items
 
 * [Item Tiers](custom-items/item-tiers.md)
-* [Artifacts](custom-items/artifacts.md)
+* [Remnants](custom-items/remnants.md)
 * [Relics](custom-items/relics.md)
 
 ## Economy

@@ -4,6 +4,10 @@ description: Frequently Asked Questions and our Answers to them!
 
 # FAQ
 
+{% hint style="info" %}
+If you can't find an answer to your question below, feel free to ask on our Discord! [https://discord.gg/TheNodeMC](https://discord.gg/TheNodeMC)
+{% endhint %}
+
 <details>
 
 <summary>How do I link my Discord to my Minecraft account? / Why am I an 'Outsider'?</summary>
@@ -59,7 +63,3 @@ Our store is located at [store.thenodemc.com](http://store.thenodemc.com/)!
 You are responsible for your own account; We are not liable if you lose access to it, and will not transfer ranks or items between accounts in the event that you do. To ensure you do not lose access to your account, be sure you are using a secure password and still have access to the email linked to your Minecraft account.
 
 </details>
-
-{% hint style="info" %}
-**If you couldn't find the answer to your question, feel free to ask on our Discord! https://discord.gg/TheNodeMC**
-{% endhint %}

@@ -8,5 +8,5 @@ description: >-
 
 Simply click on a page at the left of your screen to see more information.
 
-If you still have any questions or concerns, feel free to join our Discord at https://discord.gg/TheNodeMC!
+If you still have any questions or concerns, feel free to join our Discord at [https://discord.gg/TheNodeMC](https://discord.gg/TheNodeMC)!
 

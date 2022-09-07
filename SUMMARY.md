@@ -3,6 +3,7 @@
 * [TheNodeMC Pixelmon Wiki](README.md)
 * [FAQ](faq.md)
 * [Getting Started](getting-started.md)
+* [Server Resource Pack](server-resource-pack.md)
 
 ## Custom Items
 

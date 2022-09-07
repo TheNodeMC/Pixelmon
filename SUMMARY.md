@@ -17,4 +17,4 @@
 
 ## Pixelmon
 
-* [Base Pixelmon Changes](pixelmon/base-pixelmon-changes.md)
+* [Base Pixelmon Changes](pixelmon/pixelmon-breeding.md)

@@ -6,7 +6,7 @@ description: >-
 
 # Base Pixelmon Changes
 
-#### Breeding
+#### Daycare Breeding
 
 The majority of the breeding system is unchanged, and most info you may require can be found here: [https://pixelmonmod.com/wiki/Breeding](https://pixelmonmod.com/wiki/Breeding)
 

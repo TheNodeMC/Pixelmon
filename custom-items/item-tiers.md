@@ -9,16 +9,16 @@ description: >-
 
 ### Tier List
 
-**Common:** These items are found all over Nodenia. They are considered to be ordinary in both power and value.
+****![Common](../.gitbook/assets/common.png)**:** These items are found all over Nodenia. They are considered to be ordinary in both power and value.&#x20;
 
-<mark style="color:green;">**Uncommon**</mark>**:** These items are found almost anywhere Nodenia. They are generally not very valuable but can be a bit more powerful than Common items.
+****![Uncommon](../.gitbook/assets/uncommon.png)**:** These items are found almost anywhere Nodenia. They are generally not very valuable but can be a bit more powerful than Common items.
 
-<mark style="color:blue;">**Rare**</mark>**:** These items are a bit harder to find, generally requiring more effort/luck to be found in Nodenia. The are usually pretty powerful and their value can vary drastically depending on personal preference.
+****![Rare](../.gitbook/assets/rare.png)**:** These items are a bit harder to find, generally requiring more effort/luck to be found in Nodenia. The are usually pretty powerful and their value can vary drastically depending on personal preference.
 
-<mark style="color:purple;">**Epic**</mark>**:**&#x20;
+****![Epic](../.gitbook/assets/epic.png)**:**&#x20;
 
-<mark style="color:yellow;">**Event**</mark>**:** These items are considered some of the most unique in Nodenia. They generally provide insane powers and are extremely valuable. These items are only available during special events in Nodenia like Summer Solstice, The Hallowed Haunt or The Wintertide Festival.
+****![](../.gitbook/assets/event.png)**:** These items are considered some of the most unique in Nodenia. They generally provide insane powers and are extremely valuable. These items are only available during special events in Nodenia like Summer Solstice, The Hallowed Haunt or The Wintertide Festival.
 
-<mark style="color:orange;">**Legendary**</mark>**:**&#x20;
+****![Legendary](../.gitbook/assets/legendary.png)**:**&#x20;
 
-<mark style="color:red;">**Mythical**</mark>**:**   &#x20;
+****![Mythical](../.gitbook/assets/mythical.png)**:** Historians in Nodenia are not confident items of this tier even exist. Rumors about them suggest that if you ever wish to encounter one, you need to participate in the highest caliber of activities. These items are considered priceless due to their rarity.

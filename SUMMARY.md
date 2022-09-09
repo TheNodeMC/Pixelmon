@@ -5,6 +5,12 @@
 * [Getting Started](getting-started.md)
 * [Server Resource Pack](server-resource-pack.md)
 
+## Nodenia
+
+* [Guilds](nodenia/guilds.md)
+* [The Forge](nodenia/the-forge.md)
+* [Crystal Gateways](nodenia/crystal-gateways.md)
+
 ## Custom Items
 
 * [Item Tiers](custom-items/item-tiers.md)

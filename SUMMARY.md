@@ -23,4 +23,5 @@
 
 ## Pixelmon
 
+* [Daycare/Breeding](pixelmon/daycare-breeding.md)
 * [Base Pixelmon Changes](pixelmon/pixelmon-breeding.md)

@@ -16,7 +16,7 @@ If you are not prompted to enable the Resource Pack the first time you join our 
 2. Find the "Server Resource Packs:" button, and toggle it to **"Enabled"**
 3. Join the server again! The Resource Pack will now download and be kept up to date automatically!
 
-### Custom Modpack (Coming Soon)
+### Custom Modpack
 
 If you're having issues with the Server Resource Pack feature or would like to take advantage of faster loading times and customized menu features you can download our Technic Modpack! You'll also be rewarded with the free \[Gamer] Title in-game!
 

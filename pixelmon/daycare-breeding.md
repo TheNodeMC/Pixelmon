@@ -14,5 +14,5 @@ Notable changes from the above:
 
 ### Daycare Requirements
 
-* Requirements will dynamically change based on the total IV percentage of the parent Pokémon you put into a Daycare box, so they will become harder to breed as they increase in power. In some cases this may mean requirements being added to the original set, or they might be replaced entirely with new items such as [Type Gems](https://pixelmonmod.com/wiki/Gems)!&#x20;
+* Requirements will dynamically change based on the total IV percentage of the parent Pokémon you put into a Daycare box, so they will become harder to breed as they increase in power. In some cases this may mean requirements being added to the original set, such as [Type Gems](https://pixelmonmod.com/wiki/Gems)!&#x20;
   * In addition to normal drops, you can also get Type Gems from Gem Bags which can be obtained from various sources such as the Vote Crate or Daily Quests.

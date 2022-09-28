@@ -20,8 +20,10 @@
 ## Economy
 
 * [Currencies](economy/currencies.md)
+* [STS](economy/sts.md)
 
 ## Pixelmon
 
 * [Base Pixelmon Changes](pixelmon/pixelmon-breeding.md)
 * [Daycare/Breeding](pixelmon/daycare-breeding.md)
+* [Pokémon Tiers](pixelmon/pokemon-tiers.md)

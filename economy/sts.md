@@ -6,7 +6,7 @@ description: >-
 
 # STS
 
-Command: /sts
+Command: **/sts**
 
 ## Pricing
 

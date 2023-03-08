@@ -16,6 +16,7 @@
 * [Item Tiers](custom-items/item-tiers.md)
 * [Remnants](custom-items/remnants.md)
 * [Relics](custom-items/relics.md)
+* [Gem Bags](custom-items/gem-bags.md)
 
 ## Economy
 

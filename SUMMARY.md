@@ -28,4 +28,3 @@
 * [Base Pixelmon Changes](pixelmon/pixelmon-breeding.md)
 * [Daycare/Breeding](pixelmon/daycare-breeding.md)
 * [Pokémon Tiers](pixelmon/pokemon-tiers.md)
-* [Raids](pixelmon/raids.md)

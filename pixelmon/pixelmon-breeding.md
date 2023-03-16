@@ -12,5 +12,8 @@ Pokémon will not take damage from external sources such as suffocating, drownin
 
 ### Pokédex
 
-Owned Pokémon will only count towards your Pokédex if you are the Original Trainer ("OT").  This means that Pokémon obtained via trading will not count towards your Pokédex completion percentage.
+Owned Pokémon will only count towards your Pokédex if you are the Original Trainer ("OT"). This means that Pokémon obtained via trading will not count towards your Pokédex completion percentage.
 
+## Raids
+
+The generation of base Pixelmon Raid Dens has been disabled; you will not encounter raid dens in the wild. Our own implementation of Raids will be coming in a future content update.

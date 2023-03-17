@@ -18,6 +18,5 @@ If you are not prompted to enable the Resource Pack the first time you join our 
 
 ### Custom Modpack
 
-If you're having issues with the Server Resource Pack feature or would like to take advantage of faster loading times and customized menu features you can download our Technic Modpack! You'll also be rewarded with the free \[Gamer] Title in-game!
+\[COMING SOON]
 
-For instructions on how to download our custom modpack, [click here](https://www.thenodemc.com/modpack/).

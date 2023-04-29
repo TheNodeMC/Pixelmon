@@ -20,6 +20,7 @@
 
 ## Economy
 
+* [Chest Shops](economy/chest-shops.md)
 * [Currencies](economy/currencies.md)
 * [STS](economy/sts.md)
 

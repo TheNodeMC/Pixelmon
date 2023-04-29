@@ -12,7 +12,7 @@ To create a Chest Shop:
 4. On the third line you will enter how much money you want to buy and/or sell an item for.\
    To Buy an item for $10 for example you will type `B 10`. To Sell an item for $5 you would type `S 5`. To both buy and sell items from the same Chest Shop, add a `:` between the two, as shown in the example below.\
    \
-   **Note**: Buy and Sell are from the Chest's perspective. So Sell means the Shop will Sell the item to the player for the specified amount.
+   **Note**: Buy and Sell are from the Chest's perspective. So Sell means the Shop will Sell the item to the player for the specified amount, and Buy means you will buy the item from other players.
 5. On the last line of the sign, type a `?`. Press Done.
 6. For the final step, **right click on the sign with the item** you want to sell. This will replace the `?` with the item ID of the item on the sign, and your shop will begin accepting transactions!\
    \

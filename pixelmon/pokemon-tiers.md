@@ -1047,8 +1047,8 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 
 <summary>C-Level Legendary Pokémon</summary>
 
-* Meltan
-* Melmetal
 * Celebi
+* Melmetal
+* Meltan
 
 </details>

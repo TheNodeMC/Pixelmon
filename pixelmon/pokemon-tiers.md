@@ -47,7 +47,9 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Bonsly
 * Bouffalant
 * Bounsweet
+* Bramblin
 * Bronzor
+* Brute Bonnet
 * Bruxish
 * Budew
 * Buizel
@@ -56,13 +58,16 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Bunnelby
 * Burmy
 * Cacnea
+* Capsakid
 * Carbink
 * Carnivine
 * Carvanha
 * Cascoon
 * Castform
 * Caterpie
+* Cetoddle
 * Chansey
+* Charcadet
 * Charmander
 * Chatot
 * Cherubi
@@ -93,6 +98,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Cubone
 * Cufant
 * Cutiefly
+* Cyclizar
 * Cyndaquil
 * Darumaka
 * Dedenne
@@ -104,6 +110,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Diglett
 * Ditto
 * Doduo
+* Dondozo
 * Dottler
 * Dracovish
 * Dracozolt
@@ -134,27 +141,38 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Feebas
 * Fennekin
 * Ferroseed
+* Fidough
+* Finizen
 * Finneon
 * Flabebe
+* Flamigo
 * Flareon
 * Fletchling
+* Flittle
+* Flutter Mane
 * Fomantis
 * Foongus
+* Frigibax
 * Frillish
 * Froakie
+* Fuecoco
 * Furfrou
 * Gastly
 * Geodude
 * Gible
+* Gimmighoul
 * Girafarig
 * Glaceon
 * Glameow
 * Gligar
+* Glimmet
 * Goldeen
 * Golett
 * Goomy
 * Gossifleur
 * Gothita
+* Great Tusk
+* Greavard
 * Grimer
 * Grookey
 * Growlithe
@@ -177,6 +195,13 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Impidimp
 * Indeedee
 * Inkay
+* Iron Bundle
+* Iron Hands
+* Iron Jugulis
+* Iron Moth
+* Iron Thorns
+* Iron Treads
+* Iron Valiant
 * Jangmo-o
 * Joltik
 * Kabuto
@@ -195,6 +220,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Larvesta
 * Larvitar
 * Leafeon
+* Lechonk
 * Ledyba
 * Lickitung
 * Lileep
@@ -218,6 +244,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Mareanie
 * Mareep
 * Marill
+* Maschiff
 * Mawile
 * Meditite
 * Meowth
@@ -239,21 +266,24 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Munchlax
 * Munna
 * Murkrow
+* Nacli
 * Natu
 * Nickit
 * Nidoran
-* Nidoranmale
 * Nidoranfemale
+* Nidoranmale
 * Nincada
 * Ninetales
 * Noibat
 * Nosepass
 * Numel
+* Nymble
 * Oddish
 * Omanyte
 * Onix
 * Oranguru
 * Oricorio
+* Orthworm
 * Oshawott
 * Pachirisu
 * Pancham
@@ -263,6 +293,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Paras
 * Passimian
 * Patrat
+* Pawmi
 * Pawniard
 * Petilil
 * Phanpy
@@ -287,13 +318,16 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Pumpkaboo
 * Purrloin
 * Pyukumuku
+* Quaxly
 * Qwilfish
 * Ralts
 * Rattata
 * Relicanth
+* Rellor
 * Remoraid
 * Rhyhorn
 * Riolu
+* Roaring Moon
 * Rockruff
 * Roggenrola
 * Rolycoly
@@ -306,11 +340,13 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Salandit
 * Sandile
 * Sandshrew
+* Sandy Shocks
 * Sandygast
 * Sawk
 * Scatterbug
 * Scorbunny
 * Scraggy
+* Scream Tail
 * Scyther
 * Seedot
 * Seel
@@ -322,16 +358,17 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Shelmet
 * Shieldon
 * Shiinotic
-* Silcoon
-* Simipour
-* Simisage
-* Simisear
 * Shinx
+* Shroodle
 * Shroomish
 * Shuckle
 * Shuppet
 * Sigilyph
+* Silcoon
 * Silicobra
+* Simipour
+* Simisage
+* Simisear
 * Sinistea
 * Sizzlipede
 * Skarmory
@@ -341,9 +378,11 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Skrelp
 * Skwovet
 * Slakoth
+* Slither Wing
 * Slowpoke
 * Slugma
 * Smeargle
+* Smoliv
 * Smoochum
 * Sneasel
 * Snivy
@@ -362,7 +401,9 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Spinda
 * Spiritomb
 * Spoink
+* Sprigatito
 * Spritzee
+* Squawkabilly
 * Squirtle
 * Stantler
 * Starly
@@ -377,15 +418,21 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Swablu
 * Swinub
 * Swirlix
+* Tadbulb
 * Taillow
+* Tandemaus
 * Tangela
+* Tarountula
+* Tatsugiri
 * Tauros
 * Teddiursa
 * Tentacool
 * Tepig
 * Throh
 * Timburr
+* Tinkatink
 * Tirtouga
+* Toedscool
 * Togedemaru
 * Togepi
 * Torchic
@@ -405,6 +452,8 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Unown
 * Vanillite
 * Vaporeon
+* Varoom
+* Veluza
 * Venipede
 * Venonat
 * Vivillon
@@ -413,8 +462,10 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Vullaby
 * Vulpix
 * Wailmer
+* Wattrel
 * Weedle
 * Whismur
+* Wiglett
 * Wimpod
 * Wingull
 * Wishiwashi
@@ -448,8 +499,10 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Araquanid
 * Arbok
 * Archeops
+* Arctibax
 * Ariados
 * Armaldo
+* Armarouge
 * Aromatisse
 * Aurorus
 * Avalugg
@@ -457,18 +510,21 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Banette
 * Barbaracle
 * Barraskewda
+* Basculegion
 * Bastiodon
 * Bayleef
 * Beartic
 * Beautifly
 * Beedrill
 * Beheeyem
+* Bellibolt
 * Bewear
 * Bisharp
 * Blissey
 * Boldore
 * Boltund
 * Braixen
+* Brambleghast
 * Braviary
 * Breloom
 * Brionne
@@ -479,12 +535,15 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Carkol
 * Carracosta
 * Centiskorch
+* Ceruledge
+* Cetitan
 * Charjabug
 * Charmeleon
 * Cherrim
 * Clawitzer
 * Claydol
 * Clefairy
+* Clodsire
 * Cofagrigus
 * Combusken
 * Copperajah
@@ -492,9 +551,11 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Crabominable
 * Cradily
 * Crawdaunt
+* Crocalor
 * Croconaw
 * Crustle
 * Cursola
+* Dachsbun
 * Darmanitan
 * Dartrix
 * Delcatty
@@ -502,6 +563,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Dewott
 * Diggersby
 * Dodrio
+* Dolliv
 * Donphan
 * Doublade
 * Dragalge
@@ -512,6 +574,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Drifblim
 * Drizzile
 * Dubwool
+* Dudunsparce
 * Dugtrio
 * Duosion
 * Dusclops
@@ -521,9 +584,11 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Electabuzz
 * Electrode
 * Escavalier
+* Espathra
 * Espeon
 * Excadrill
 * Exeggutor
+* Farigiraf
 * Fearow
 * Ferrothorn
 * Flaaffy
@@ -531,6 +596,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Fletchinder
 * Floatzel
 * Floette
+* Florgato
 * Forretress
 * Fraxure
 * Frogadier
@@ -542,19 +608,22 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Garbodor
 * Gastrodon
 * Gengar
+* Gholdengo
 * Gigalith
-* Golem
 * Glalie
+* Glimmora
 * Gliscor
 * Gloom
 * Gogoat
 * Golbat
 * Golduck
+* Golem
 * Golisopod
 * Golurk
 * Gorebyss
 * Gothorita
 * Gourgeist
+* Grafaiai
 * Granbull
 * Grapploct
 * Graveler
@@ -577,6 +646,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Hitmontop
 * Honchkrow
 * Houndoom
+* Houndstone
 * Huntail
 * Hypno
 * Ivysaur
@@ -586,9 +656,12 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Jynx
 * Kabutops
 * Kadabra
+* Kilowattrel
 * Kingler
 * Kirlia
 * Klang
+* Klawf
+* Kleavor
 * Krokorok
 * Lairon
 * Lampent
@@ -598,6 +671,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Liepard
 * Lilligant
 * Linoone
+* Lokix
 * Lombre
 * Lopunny
 * Loudred
@@ -606,6 +680,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Lumineon
 * Lurantis
 * Lycanroc
+* Mabosstiff
 * Machamp
 * Machoke
 * Magcargo
@@ -617,6 +692,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Marowak
 * Marshtomp
 * Masquerain
+* Maushold
 * Medicham
 * Meowstic
 * Metang
@@ -630,6 +706,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Mudsdale
 * Muk
 * Musharna
+* Naclstack
 * Nidorina
 * Nidorino
 * Ninjask
@@ -637,11 +714,15 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Noivern
 * Nuzleaf
 * Octillery
+* Oinkologne
 * Omastar
+* Overqwil
+* Palafin
 * Palossand
 * Palpitoad
 * Pangoro
 * Parasect
+* Pawmo
 * Pelipper
 * Perrserker
 * Persian
@@ -659,12 +740,15 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Purugly
 * Pyroar
 * Quagsire
+* Quaxwell
 * Quilava
 * Quilladin
 * Raboot
+* Rabsca
 * Rampardos
 * Rapidash
 * Raticate
+* Revavroom
 * Rhydon
 * Ribombee
 * Roserade
@@ -674,6 +758,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Sandslash
 * Sawsbuck
 * Scizor
+* Scovillain
 * Scrafty
 * Seadra
 * Seaking
@@ -689,6 +774,8 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Slowbro
 * Slowking
 * Slurpuff
+* Sneasler
+* Spidops
 * Staravia
 * Starmie
 * Steelix
@@ -704,6 +791,8 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Tentacruel
 * Thievul
 * Thwackey
+* Tinkatuff
+* Toedscruel
 * Togetic
 * Torracat
 * Toxapex
@@ -732,6 +821,8 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Whirlipede
 * Whiscash
 * Wormadam
+* Wugtrio
+* Wyrdeer
 * Xatu
 * Yanmega
 * Zebstrika
@@ -748,6 +839,9 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Aggron
 * Alakazam
 * Ampharos
+* Annihilape
+* Arboliva
+* Baxcalibur
 * Bellossom
 * Blastoise
 * Blaziken
@@ -776,6 +870,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Gallade
 * Garchomp
 * Gardevoir
+* Garganacl
 * Goodra
 * Gothitelle
 * Greninja
@@ -787,6 +882,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Infernape
 * Inteleon
 * Jumpluff
+* Kingambit
 * Kingdra
 * Klinklang
 * Kommo-o
@@ -797,16 +893,19 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Magnezone
 * Mamoswine
 * Meganium
+* Meowscarada
 * Metagross
 * Milotic
 * Nidoking
 * Nidoqueen
 * Obstagoon
 * Orbeetle
+* Pawmot
 * Pidgeot
 * Politoed
 * Porygon-z
 * Primarina
+* Quaquaval
 * Raichu
 * Reuniclus
 * Rhyperior
@@ -818,11 +917,13 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Seismitoad
 * Serperior
 * Shiftry
+* Skeledirge
 * Slaking
 * Staraptor
 * Stoutland
 * Swampert
 * Talonflame
+* Tinkaton
 * Togekiss
 * Torterra
 * Toucannon
@@ -830,6 +931,7 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 * Typhlosion
 * Tyranitar
 * Unfezant
+* Ursaluna
 * Vanilluxe
 * Venusaur
 * Vikavolt
@@ -845,46 +947,49 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 
 <summary>A-Level Legendary Pokémon</summary>
 
-* Mewtwo
-* Mew
-* Latias
-* Latios
-* Kyogre
-* Groudon
-* Rayquaza
-* Deoxys
-* Dialga
-* Palkia
-* Heatran
-* Regigigas
-* Giratina
+* Arceus
+* Calyrex
 * Cresselia
 * Darkrai
-* Arceus
-* Tornadus
-* Thundurus
-* Landorus
-* Reshiram
-* Zekrom
+* Deoxys
+* Dialga
+* Enamorus
+* Eternatus
+* Giratina
+* Groudon
+* Heatran
+* Koraidon
+* Kubfu
+* Kyogre
 * Kyurem
+* Landorus
+* Latias
+* Latios
+* Lunala
+* Marshadow
+* Mew
+* Mewtwo
+* Miraidon
+* Necrozma
+* Palkia
+* Rayquaza
+* Regidrago
+* Regieleki
+* Regigigas
+* Reshiram
+* Solgaleo
+* Thundurus
+* Tornadus
+* Urshifu
+* Volcanion
 * Xerneas
 * Yveltal
-* Zygarde
-* Volcanion
-* Solgaleo
-* Lunala
-* Necrozma
-* Marshadow
-* Zeraora
 * Zacian
 * Zamazenta
-* Eternatus
-* Kubfu
-* Urshifu
 * Zarude
-* Regieleki
-* Regidrago
-* Calyrex
+* Zekrom
+* Zeraora
+* Zygarde
 
 </details>
 
@@ -892,43 +997,49 @@ Please note that this list is not final, and Pokémon can be re-assigned to anot
 
 <summary>B-Level Legendary Pokémon</summary>
 
-* Victini
-* Raikou
-* Entei
-* Suicune
 * Articuno
-* Zapdos
-* Moltres
-* Lugia
-* Ho-oh
-* Jirachi
-* Uxie
-* Mesprit
 * Azelf
-* Manaphy
-* Shaymin
-* Regirock
-* Regice
-* Registeel
+* Chi-Yu
+* Chien-Pao
 * Cobalion
-* Terrakion
-* Virizion
+* Cosmoem
+* Cosmog
+* Diancie
+* Entei
+* Genesect
+* Glastrier
+* Ho-oh
+* Hoopa
+* Iron Leaves
+* Jirachi
 * Keldeo
+* Lugia
+* Magearna
+* Manaphy
 * Meloetta
-* Typenull
+* Mesprit
+* Moltres
+* Raikou
+* Regice
+* Regirock
+* Registeel
+* Shaymin
 * Silvally
-* Tapukoko
-* Tapulele
+* Spectrier
+* Suicune
 * Tapubulu
 * Tapufini
-* Cosmog
-* Cosmoem
-* Magearna
-* Hoopa
-* Genesect
-* Diancie
-* Spectrier
-* Glastrier
+* Tapukoko
+* Tapulele
+* Terrakion
+* Ting-Lu
+* Typenull
+* Uxie
+* Victini
+* Virizion
+* Walking Wake
+* Wo-Chien
+* Zapdos
 
 </details>
 

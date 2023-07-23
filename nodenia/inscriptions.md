@@ -2,7 +2,7 @@
 
 | Inscription Name                    | Tier                                     | Description                                           | Method to Obtain         |
 | ----------------------------------- | ---------------------------------------- | ----------------------------------------------------- | ------------------------ |
-| [Agile](inscriptions.md)            | <mark style="color:green;">Common</mark> | Has a chance to give haste                            | Unidentified Inscription |
+| [Agile](inscriptions.md)            | <mark style="color:#90c253;">Common</mark> | Has a chance to give haste                            | Unidentified Inscription |
 | [Beheading](inscriptions.md)        | Common                                   | Has a chance to drop your victims head                | Unidentified Inscription |
 | [Burp](inscriptions.md)             | Common                                   | Has a chance to make you burp                         | Unidentified Inscription |
 | [Gluttony](inscriptions.md)         | Common                                   | Has a chance to feed you                              | Unidentified Inscription |

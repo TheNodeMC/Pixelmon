@@ -1,7 +1,7 @@
 # Inscriptions
 
 | Inscription Name | Tier | Description | Method to Obtain |
-| - | - | - |
+|---|---|---|
 | [Agile]() | Common | Has a chance to give haste | Unidentified Inscription |
 | [Beheading]() | Common | Has a chance to drop your victims head | Unidentified Inscription |
 | [Burp]() | Common | Has a chance to make you burp | Unidentified Inscription |

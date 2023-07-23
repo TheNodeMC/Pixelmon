@@ -1,16 +1,7 @@
 # Inscriptions
 
-| Inscription Name                    | Tier                                     | Description                                           | Method to Obtain         |
-| ----------------------------------- | ---------------------------------------- | ----------------------------------------------------- | ------------------------ |
-| [Agile](inscriptions.md)            | <span style="color: #90c253;">Common</span> | Has a chance to give haste                            | Unidentified Inscription |
-| [Beheading](inscriptions.md)        | Common                                   | Has a chance to drop your victims head                | Unidentified Inscription |
-| [Burp](inscriptions.md)             | Common                                   | Has a chance to make you burp                         | Unidentified Inscription |
-| [Gluttony](inscriptions.md)         | Common                                   | Has a chance to feed you                              | Unidentified Inscription |
-| [Hypnos Curse](inscriptions.md)     | Common                                   | Has a chance to inflict your victim with slowness     | Unidentified Inscription |
-| [Kirlia's Mercy](inscriptions.md)   | Common                                   | A small chance to negate fall damage                  | Unidentified Inscription |
-| [Noctowl's Vision](inscriptions.md) | Common                                   | Gives night vision                                    | Unidentified Inscription |
-| [Splash](inscriptions.md)           | Common                                   | Has a chance to extinguish flames                     | Unidentified Inscription |
-| [Spoink's Favor](inscriptions.md)   | Common                                   | Gives a permanent jump boost                          | Unidentified Inscription |
-| [Starvation](inscriptions.md)       | Common                                   | Has a chance to inflict your victim with hunger       | Unidentified Inscription |
-| [Swindler](inscriptions.md)         | Common                                   | Has a chance to steal some exp from your victim       | Unidentified Inscription |
-| [Thief](inscriptions.md)            | Common                                   | Has a chance to steal some pokecoins from your victim | Unidentified Inscription |
+
+
+## Common Tier
+
+<table data-full-width="true"><thead><tr><th width="199">Inscription Name</th><th width="129">Tier</th><th width="375">Description</th><th>How to Get</th></tr></thead><tbody><tr><td><a href="inscriptions.md">Agile</a></td><td>Common</td><td>Has a chance to give haste</td><td>Unidentified Inscription</td></tr><tr><td><a href="inscriptions.md">Beheading</a></td><td>Common</td><td>Has a chance to drop your victims head</td><td>Unidentified Inscription</td></tr><tr><td><a href="inscriptions.md">Burp</a></td><td>Common</td><td>Has a chance to make you burp</td><td>Unidentified Inscription</td></tr><tr><td><a href="inscriptions.md">Gluttony</a></td><td>Common</td><td>Has a chance to feed you</td><td>Unidentified Inscription</td></tr><tr><td><a href="inscriptions.md">Hypnos Curse</a></td><td>Common</td><td>Has a chance to inflict your victim with slowness</td><td>Unidentified Inscription</td></tr><tr><td><a href="inscriptions.md">Kirlia's Mercy</a></td><td>Common</td><td>A small chance to negate fall damage</td><td>Unidentified Inscription</td></tr><tr><td><a href="inscriptions.md">Noctowl's Vision</a></td><td>Common</td><td>Gives night vision</td><td>Unidentified Inscription</td></tr><tr><td><a href="inscriptions.md">Splash</a></td><td>Common</td><td>Has a chance to extinguish flames</td><td>Unidentified Inscription</td></tr><tr><td><a href="inscriptions.md">Spoink's Favor</a></td><td>Common</td><td>Gives a permanent jump boost</td><td>Unidentified Inscription</td></tr><tr><td><a href="inscriptions.md">Starvation</a></td><td>Common</td><td>Has a chance to inflict your victim with hunger</td><td>Unidentified Inscription</td></tr><tr><td><a href="inscriptions.md">Swindler</a></td><td>Common</td><td>Has a chance to steal some exp from your victim</td><td>Unidentified Inscription</td></tr><tr><td><a href="inscriptions.md">Thief</a></td><td>Common</td><td>Has a chance to steal some pokecoins from your victim</td><td>Unidentified Inscription</td></tr></tbody></table>

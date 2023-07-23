@@ -9,6 +9,7 @@
 
 * [Guilds](nodenia/guilds.md)
 * [The Forge](nodenia/the-forge.md)
+* [Inscriptions](nodenia/inscriptions.md)
 * [Crystal Gateways](nodenia/crystal-gateways.md)
 
 ## Custom Items

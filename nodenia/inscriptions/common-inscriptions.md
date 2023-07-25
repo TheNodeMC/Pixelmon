@@ -10,7 +10,7 @@ Agile is a common tier inscription that can be obtained from a unidentified insc
 
 #### Enchantment Levels
 
-<table><thead><tr><th width="102.33333333333331">Level</th><th width="230">Combing Books Required</th><th>Effect</th></tr></thead><tbody><tr><td>I</td><td>1</td><td>+10% chance to Haste I for 5 seconds when attacking</td></tr><tr><td>II</td><td>2</td><td>+25% chance to Haste I for 5 seconds when attacking</td></tr><tr><td>III</td><td>4</td><td>+50% chance to Haste I for 5 seconds when attacking</td></tr></tbody></table>
+<table><thead><tr><th width="102.33333333333331">Level</th><th width="160">Books Required</th><th>Effect</th></tr></thead><tbody><tr><td>I</td><td>1</td><td>+10% chance to Haste I for 5 seconds when attacking</td></tr><tr><td>II</td><td>2</td><td>+25% chance to Haste I for 5 seconds when attacking</td></tr><tr><td>III</td><td>4</td><td>+50% chance to Haste I for 5 seconds when attacking</td></tr></tbody></table>
 
 ***
 

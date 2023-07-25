@@ -4,7 +4,7 @@ description: >-
   so you know what to expect!
 ---
 
-# Base Pixelmon Changes
+# 📋 Base Pixelmon Changes
 
 ### External Damage
 

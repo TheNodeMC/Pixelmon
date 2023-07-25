@@ -4,7 +4,7 @@ description: >-
   textures, models, and sounds to enhance your experience!
 ---
 
-# Server Resource Pack
+# 🏔 Server Resource Pack
 
 The first time you join our server you will be prompted to accept the download of a Resource Pack. You must click "Accept" on this screen, or you will be kicked from the server. The Resource Pack is a required part of TheNodeMC's Pixelmon experience, and you will not be able to join without it. If you need assistance with enabling the Resource Pack, please continue reading below.
 

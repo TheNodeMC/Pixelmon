@@ -2,7 +2,7 @@
 description: Frequently Asked Questions and our Answers to them!
 ---
 
-# FAQ
+# ⁉ FAQ
 
 {% hint style="info" %}
 If you can't find an answer to your question below, feel free to ask on our Discord! [https://discord.gg/TheNodeMC](https://discord.gg/TheNodeMC)

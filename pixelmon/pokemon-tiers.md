@@ -4,7 +4,7 @@ description: >-
   tiers as listed below.
 ---
 
-# Pokémon Tiers
+# ✨ Pokémon Tiers
 
 Please note that this list is not final, and Pokémon can be re-assigned to another tier at any time based on staff discretion.
 

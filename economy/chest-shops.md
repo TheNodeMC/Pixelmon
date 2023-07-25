@@ -2,7 +2,7 @@
 description: Create your own shops to sell items from chests
 ---
 
-# Chest Shops
+# 🏪 Chest Shops
 
 To create a Chest Shop:
 

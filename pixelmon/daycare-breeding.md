@@ -2,7 +2,7 @@
 description: Important information regarding Breeding on TheNodeMC
 ---
 
-# Daycare/Breeding
+# 🥚 Daycare/Breeding
 
 Most info you may require regarding breeding can be found on the [Pixelmon Wiki](https://pixelmonmod.com/wiki/Breeding).\
 \

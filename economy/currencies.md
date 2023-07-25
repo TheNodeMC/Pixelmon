@@ -1,2 +1,2 @@
-# Currencies
+# 🪙 Currencies
 

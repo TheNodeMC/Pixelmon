@@ -4,37 +4,24 @@ description: >-
   immense value.
 ---
 
-# Relics
+# 📿 Relics
 
 ### Obtaining Relics
 
-Relics can be found all throughout Nodenia, both organically and by participating in special events and activities.&#x20;
+Relics can be found all throughout Nodenia, both organically and by participating in special events and activities.
 
 ### Relic Boosters
-
-
 
 ## List of Relics
 
 ### Common Relics
 
-
-
 ### Uncommon Relics
-
-
 
 ### Rare Relics
 
-
-
 ### Epic Relics
-
-
 
 ### Legendary Relics
 
-
-
 ### Mythical Relics
-

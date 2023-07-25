@@ -10,13 +10,7 @@
 * [🏰 Guilds](nodenia/guilds.md)
 * [⚒ The Forge](nodenia/the-forge.md)
 * [📜 Inscriptions](nodenia/inscriptions/README.md)
-  * [Common Inscriptions](https://wiki.thenodemc.com/nodenia/inscriptions#common-tier)
-  * [Uncommon Inscriptions](https://wiki.thenodemc.com/nodenia/inscriptions#uncommon-tier)
-  * [Rare Inscriptions](https://wiki.thenodemc.com/nodenia/inscriptions#rare-tier)
-  * [Epic Inscriptions](https://wiki.thenodemc.com/nodenia/inscriptions#epic-tier)
-  * [Legendary Inscriptions](https://wiki.thenodemc.com/nodenia/inscriptions#legendary-tier)
-  * [Mythical Inscriptions](https://wiki.thenodemc.com/nodenia/inscriptions#mythical-tier)
-  * [Miscellaneous Inscriptions](https://wiki.thenodemc.com/nodenia/inscriptions#miscellaneous-tier)
+  * [Common Inscriptions](nodenia/inscriptions/common-inscriptions.md)
 * [🗺 Crystal Gateways](nodenia/crystal-gateways.md)
 
 ## Custom Items

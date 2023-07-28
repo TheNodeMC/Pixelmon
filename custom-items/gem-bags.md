@@ -2,7 +2,7 @@
 description: Gem Bags are a pouch filled with a random assortment of Type Gems.
 ---
 
-# Gem Bags
+# 💎 Gem Bags
 
 ### Obtaining Gem Bags
 

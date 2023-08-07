@@ -7,6 +7,7 @@
 
 ## Nodenia
 
+* [🧑🌾 Professions](nodenia/professions.md)
 * [🏰 Guilds](nodenia/guilds.md)
 * [⚒ The Forge](nodenia/the-forge.md)
 * [📜 Inscriptions](nodenia/inscriptions/README.md)

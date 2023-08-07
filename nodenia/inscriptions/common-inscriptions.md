@@ -6,7 +6,7 @@ Agile is a common tier inscription that can be obtained from a unidentified insc
 
 #### Enchantment Traits
 
-<table data-full-width="false"><thead><tr><th width="184">Trait</th><th>Value</th></tr></thead><tbody><tr><td>Applicable to</td><td>Sword</td></tr><tr><td>Minimum Level</td><td>I</td></tr><tr><td>Maximum Level</td><td>3</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="184">Trait</th><th>Value</th></tr></thead><tbody><tr><td>Applicable to</td><td>Sword</td></tr><tr><td>Minimum Level</td><td>I</td></tr><tr><td>Maximum Level</td><td>III</td></tr></tbody></table>
 
 #### Enchantment Levels
 
@@ -22,7 +22,7 @@ Agile is a common tier inscription that can be obtained from a unidentified insc
 {% endtab %}
 
 {% tab title="Traits" %}
-<table data-full-width="false"><thead><tr><th width="184">Trait</th><th>Value</th></tr></thead><tbody><tr><td>Applicable to</td><td>Sword</td></tr><tr><td>Minimum Level</td><td>I</td></tr><tr><td>Maximum Level</td><td>3</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="184">Trait</th><th>Value</th></tr></thead><tbody><tr><td>Applicable to</td><td>Sword</td></tr><tr><td>Minimum Level</td><td>I</td></tr><tr><td>Maximum Level</td><td>III</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Levels" %}

@@ -32,3 +32,8 @@
 * [📋 Base Pixelmon Changes](pixelmon/pixelmon-breeding.md)
 * [🥚 Daycare/Breeding](pixelmon/daycare-breeding.md)
 * [✨ Pokémon Tiers](pixelmon/pokemon-tiers.md)
+
+## Guides
+
+* [🔐 Claiming 101: The Basics](guides/claiming-101-the-basics.md)
+* [🔏 Claiming 102: Towns and Subclaims](guides/claiming-102-towns-and-subclaims.md)

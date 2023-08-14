@@ -17,9 +17,9 @@
 ## Custom Items
 
 * [🔷 Item Tiers](custom-items/item-tiers.md)
+* [💰 Caches](custom-items/gem-bags.md)
 * [⛏ Remnants](custom-items/remnants.md)
 * [📿 Relics](custom-items/relics.md)
-* [💎 Gem Bags](custom-items/gem-bags.md)
 
 ## Economy
 
@@ -32,6 +32,7 @@
 * [📋 Base Pixelmon Changes](pixelmon/pixelmon-breeding.md)
 * [🥚 Daycare/Breeding](pixelmon/daycare-breeding.md)
 * [✨ Pokémon Tiers](pixelmon/pokemon-tiers.md)
+* [🎓 Move Tutor Terminal](pixelmon/move-tutor-terminal.md)
 
 ## Guides
 

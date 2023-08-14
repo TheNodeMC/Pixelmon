@@ -17,7 +17,7 @@
 ## Custom Items
 
 * [🔷 Item Tiers](custom-items/item-tiers.md)
-* [💰 Caches](custom-items/gem-bags.md)
+* [💰 Caches](custom-items/caches.md)
 * [⛏ Remnants](custom-items/remnants.md)
 * [📿 Relics](custom-items/relics.md)
 

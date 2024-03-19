@@ -1,25 +1,25 @@
 # Table of contents
 
 * [🌐 TheNodeMC Pixelmon Wiki](README.md)
-* [⁉ FAQ](faq.md)
-* [🛣 Getting Started](getting-started.md)
-* [🏔 Server Resource Pack](server-resource-pack.md)
-* [🗳 Voting](voting.md)
+* [⁉️ FAQ](faq.md)
+* [🛣️ Getting Started](getting-started.md)
+* [🏔️ Server Resource Pack](server-resource-pack.md)
+* [🗳️ Voting](voting.md)
 
 ## Nodenia
 
-* [🧑🌾 Professions](nodenia/professions.md)
+* [🧑‍🌾 Professions](nodenia/professions.md)
 * [🏰 Guilds](nodenia/guilds.md)
-* [⚒ The Forge](nodenia/the-forge.md)
+* [⚒️ The Forge](nodenia/the-forge.md)
 * [📜 Inscriptions](nodenia/inscriptions/README.md)
   * [Common Inscriptions](nodenia/inscriptions/common-inscriptions.md)
-* [🗺 Crystal Gateways](nodenia/crystal-gateways.md)
+* [🗺️ Crystal Gateways](nodenia/crystal-gateways.md)
 
 ## Custom Items
 
 * [🔷 Item Tiers](custom-items/item-tiers.md)
 * [💰 Caches](custom-items/caches.md)
-* [⛏ Remnants](custom-items/remnants.md)
+* [⛏️ Remnants](custom-items/remnants.md)
 * [📿 Relics](custom-items/relics.md)
 
 ## Economy
